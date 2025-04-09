@@ -1,4 +1,4 @@
-Pet Adoption Predictor
+PET ADOPTION PREDICTION
 
 This project aims to predict the likelihood of a pet being adopted based on various features such as pet type, breed, age, health condition, adoption fee, and more. The model utilizes machine learning techniques to predict the adoption likelihood of pets and provides an easy-to-use interface for users to interact with.
 
